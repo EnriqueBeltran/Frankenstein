@@ -1,2 +1,6 @@
 cabeza normal
+<<<<<<< HEAD
 Cabeza con casco de acero
+=======
+...con ojos de rayo laser
+>>>>>>> laser
